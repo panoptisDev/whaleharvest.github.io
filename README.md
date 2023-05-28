@@ -6,6 +6,7 @@ Add image name after slash
 
 * https://panoptisdev.github.io/whaleharvest.github.io/
 
+### a few logos
 * polygonlogo 225x225: https://iili.io/HrcKQVt.png
 * ethlogo: https://iili.io/Hrcfq0u.png
 * scroll-logo: https://iili.io/HrnJIXn.png
